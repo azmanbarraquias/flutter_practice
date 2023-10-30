@@ -1,166 +1,166 @@
 # flutter_practice
-This is a practice project that holds all that I learned for flutter development.
+This is a practice project that holds all that I learned for flutter development. <br />
 My Progress https://app.milanote.com/1QXuf41xJ0OReE?p=LKEwZdNRBdh
 
-Flutter Dev
+#  Flutter Dev
  
-Image from Flutter Dev
-Flutter transforms the app development process. Build, test, and deploy beautiful mobile, web, desktop, and embedded apps from a single codebase.
-https://flutter.dev/
-Flutter & Dart - The Complete Guide [2023 Edition] NEW
-•	[x] 00-About
-•	[x] 01-Getting-Started
-•	[ ] 02-Basics
-•	[ ] 03-Debugging
-•	[ ] 04-Real-Apps
-•	[ ] 05-Responsive-Adaptive
-•	[ ] 06-Deep-Dive
-•	[ ] 07-Navigation
-•	[ ] 08-State-Management
-•	[ ] 09-Input-Forms
-•	[ ] 10-Http
-•	[ ] 11-Auth
-•	[ ] 12-Animations
-•	[ ] 13-Native-Device-Features
-•	[ ] 14-Native-Code
-•	[ ] 15-Publish
-•	[ ] 16-Firebase-Chat
- 
-Image from Flutter Dev
-Flutter Courses
-•	[ ] Dart and Flutter 3 Bootcamp Build Apps for Any Screen!
-•	[ ] Flutter - RestApi and MySQLite - Todo App
-•	[ ] Flutter & Dart - The Complete Guide [2023 Edition]
-•	[ ] Flutter & Dart - The Complete Guide [2023 Edition] NEW
-•	[ ] Flutter & Firebase Tutorial Build 5 Social Media Apps
-•	[ ] Flutter Google Map APIs Google Cloud Course
-•	[ ] Learn Flutterflow. Build A Minimalist Events App
-•	[ ] Dart & Flutter - Zero to Mastery [2023] + Clean Architecture
-flutter_road_map_2023.pdf (96 KB)
-02-Basics
-•	[ ] 01-intro
-•	[ ] 02-creating-a-new-project
-•	[ ] 02-creating-a-new-project-2
-•	[ ] 02-creating-a-new-project-3
-•	[ ] 03-understanding-files-and-folders
-•	[ ] 03-understanding-files-and-folders-2
-•	[ ] 04-analyzing-the-starting-app
-•	[ ] 05-some-dart-basics-1
-•	[ ] 06-more-dart-introduction
-•	[ ] 07-starting-work-on-the-main-file
-•	[ ] 08-running-our-app
-•	[ ] 09-constructors-and-named-arguments
-•	[ ] 10-first-summary-and-more-syntax
-•	[ ] 11-building-a-widget-tree
-•	[ ] 12-visible-and-invisble-widgets
-•	[ ] 13-adding-layout-widgets
-•	[ ] 14-connection-functions-to-buttons
-•	[ ] 15-anonymous-functions
-•	[ ] 16-updating-widget-data
-•	[ ] 17-updating-data-correctly-with-stateful-widgets
-•	[ ] 18-a-first-brief-look-at-how-flutter-reacts-to-state-changes
-•	[ ] 19-private-properties
-•	[ ] 20-creating-a-custom-new-widget
-•	[ ] 21-first-styling-and-layouting-steps
-•	[ ] 22-enums-and-multiple-constructors
-•	[ ] 23-docs-and-widget-catalog
-•	[ ] 24-passing-callbacks-around-fixed-2
-•	[ ] 25- introducing-maps
-•	[ ] 26-mapping-lists-to-widgets
-•	[ ] 27-final-vs-const
-•	[ ] 28- introducing-if-statements
-•	[ ] 29-outputting-widgets-conditionally
-•	[ ] 30-splitting-the-app-into-widgets-2
-•	[ ] 31-calculating-a-total-score-2
-•	[ ] 32-getters-and-else-if
-•	[ ] 33-resetting-the-quiz
-•	[ ] 34-the-new-buttons
-•	[ ] 35-wrap-up
-•	[ ] assignment-problem
-•	[ ] assignment-solution
-•	[ ] if-statements
-•	[ ] null
-•	[ ] null-and-null-safety
-•	[ ] null-and-null-safety-2 ## 06-Deep-Dive
-•	[ ] 01-intro
-•	[ ] 02-the-problem-at-hand
-•	[ ] 03-widget-tree-and-element-tree
-•	[ ] 04-how-flutter-rebuilds-and-repaints-the-screen
-•	[ ] 05-how-flutter-runs-build
-•	[ ] 06-using-const-widgets-and-constructors
-•	[ ] 07-writing-good-code
-•	[ ] 08-extracting-widgets
-•	[ ] 09-using-builder-methods
-•	[ ] 10-assignment-problem
-•	[ ] 11-assignment-solution
-•	[ ] 12-the-widget-lifecycle
-•	[ ] 13-the-app-lifecycle
-•	[ ] 14-understanding-context
-•	[ ] 15-a-problem-with-lists-and-stateful-widgets
-•	[ ] 16-understanding-the-problem-root
-•	[ ] 17-using-keys
-•	[ ] 18-wrap-up ## 10-Http
-•	[ ] 01-intro
-•	[ ] 02-device-vs-web-storage
-•	[ ] 03-connecting-flutter-to-databases
-•	[ ] 04-preparing-the-backend
-•	[ ] 05-how-to-send-http-requests
-•	[ ] 06-sending-a-post-request
-•	[ ] 07-working-with-futures
-•	[ ] 08-showing-a-loading-indicator
-•	[ ] 09-error-handling-update
-•	[ ] 10-async-await
-•	[ ] 11-fetching-data-initstate-and-context
-•	[ ] 12-transforming-loaded-data
-•	[ ] 13-pull-to-refresh-updated
-•	[ ] 14-updating-data-with-patch
-•	[ ] 15-optimistic-updating
-•	[ ] 16-custom-exceptions-and-more-error-handling
-•	[ ] 17-a-challenge-for-you
-•	[ ] 18-optimistic-updating-of-favorite-status
-•	[ ] 19-storing-orders
-•	[ ] 20-fetching-orders-and-fixing-an-issue
-•	[ ] 21-futurebuilder-and-code-improvements-updated
-•	[ ] 22-wrap-up ## 03-Debugging
-•	[ ] 01-intro
-•	[ ] 02-running-the-app-on-a-real-android-device
-•	[ ] 03-running-on-ios-simulators
-•	[ ] 04-running-the-app-on-a-real-ios-device
-•	[ ] 05-working-with-the-emulators
-•	[ ] 06-working-with-error-messages
-•	[ ] 07-using-the-debugger
-•	[ ] 08-getting-started-with-the-dart-devtools
+Image from Flutter Dev <br />
+Flutter transforms the app development process. Build, test, and deploy beautiful mobile, web, desktop, and embedded apps from a single codebase.<br />
+https://flutter.dev/ <br />
+Flutter & Dart - The Complete Guide [2023 Edition] NEW <br />
+•	[x] 00-About <br />
+•	[x] 01-Getting-Started <br />
+•	[ ] 02-Basics <br />
+•	[ ] 03-Debugging<br />
+•	[ ] 04-Real-Apps<br />
+•	[ ] 05-Responsive-Adaptive<br />
+•	[ ] 06-Deep-Dive<br />
+•	[ ] 07-Navigation<br />
+•	[ ] 08-State-Management<br />
+•	[ ] 09-Input-Forms<br />
+•	[ ] 10-Http<br />
+•	[ ] 11-Auth<br />
+•	[ ] 12-Animations<br />
+•	[ ] 13-Native-Device-Features<br />
+•	[ ] 14-Native-Code<br />
+•	[ ] 15-Publish<br />
+•	[ ] 16-Firebase-Chat<br />
+ <br />
+Image from Flutter Dev<br />
+Flutter Courses<br />
+•	[ ] Dart and Flutter 3 Bootcamp Build Apps for Any Screen!<br />
+•	[ ] Flutter - RestApi and MySQLite - Todo App<br />
+•	[ ] Flutter & Dart - The Complete Guide [2023 Edition]<br />
+•	[ ] Flutter & Dart - The Complete Guide [2023 Edition] NEW<br />
+•	[ ] Flutter & Firebase Tutorial Build 5 Social Media Apps<br />
+•	[ ] Flutter Google Map APIs Google Cloud Course<br />
+•	[ ] Learn Flutterflow. Build A Minimalist Events App<br />
+•	[ ] Dart & Flutter - Zero to Mastery [2023] + Clean Architecture<br />
+
+02-Basics<br />
+•	[ ] 01-intro<br />
+•	[ ] 02-creating-a-new-project<br />
+•	[ ] 02-creating-a-new-project-2<br />
+•	[ ] 02-creating-a-new-project-3<br />
+•	[ ] 03-understanding-files-and-folders<br />
+•	[ ] 03-understanding-files-and-folders-2<br />
+•	[ ] 04-analyzing-the-starting-app<br />
+•	[ ] 05-some-dart-basics-1<br />
+•	[ ] 06-more-dart-introduction<br />
+•	[ ] 07-starting-work-on-the-main-file<br />
+•	[ ] 08-running-our-app<br />
+•	[ ] 09-constructors-and-named-arguments<br />
+•	[ ] 10-first-summary-and-more-syntax<br />
+•	[ ] 11-building-a-widget-tree<br />
+•	[ ] 12-visible-and-invisble-widgets<br />
+•	[ ] 13-adding-layout-widgets<br />
+•	[ ] 14-connection-functions-to-buttons<br />
+•	[ ] 15-anonymous-functions<br />
+•	[ ] 16-updating-widget-data<br />
+•	[ ] 17-updating-data-correctly-with-stateful-widgets<br />
+•	[ ] 18-a-first-brief-look-at-how-flutter-reacts-to-state-changes<br />
+•	[ ] 19-private-properties<br />
+•	[ ] 20-creating-a-custom-new-widget<br />
+•	[ ] 21-first-styling-and-layouting-steps<br />
+•	[ ] 22-enums-and-multiple-constructors<br />
+•	[ ] 23-docs-and-widget-catalog<br />
+•	[ ] 24-passing-callbacks-around-fixed-2<br />
+•	[ ] 25- introducing-maps<br />
+•	[ ] 26-mapping-lists-to-widgets<br />
+•	[ ] 27-final-vs-const<br />
+•	[ ] 28- introducing-if-statements<br />
+•	[ ] 29-outputting-widgets-conditionally<br />
+•	[ ] 30-splitting-the-app-into-widgets-2<br />
+•	[ ] 31-calculating-a-total-score-2<br />
+•	[ ] 32-getters-and-else-if<br />
+•	[ ] 33-resetting-the-quiz<br />
+•	[ ] 34-the-new-buttons<br />
+•	[ ] 35-wrap-up<br />
+•	[ ] assignment-problem<br />
+•	[ ] assignment-solution<br />
+•	[ ] if-statements<br />
+•	[ ] null<br />
+•	[ ] null-and-null-safety<br />
+•	[ ] null-and-null-safety-2<br /> ## 06-Deep-Dive<br />
+•	[ ] 01-intro<br />
+•	[ ] 02-the-problem-at-hand<br />
+•	[ ] 03-widget-tree-and-element-tree<br />
+•	[ ] 04-how-flutter-rebuilds-and-repaints-the-screen<br />
+•	[ ] 05-how-flutter-runs-build<br />
+•	[ ] 06-using-const-widgets-and-constructors<br />
+•	[ ] 07-writing-good-code<br />
+•	[ ] 08-extracting-widgets<br />
+•	[ ] 09-using-builder-methods<br />
+•	[ ] 10-assignment-problem<br />
+•	[ ] 11-assignment-solution<br />
+•	[ ] 12-the-widget-lifecycle<br />
+•	[ ] 13-the-app-lifecycle<br />
+•	[ ] 14-understanding-context<br />
+•	[ ] 15-a-problem-with-lists-and-stateful-widgets<br />
+•	[ ] 16-understanding-the-problem-root<br />
+•	[ ] 17-using-keys<br />
+•	[ ] 18-wrap-up ## 10-Http<br />
+•	[ ] 01-intro<br />
+•	[ ] 02-device-vs-web-storage<br />
+•	[ ] 03-connecting-flutter-to-databases<br />
+•	[ ] 04-preparing-the-backend<br />
+•	[ ] 05-how-to-send-http-requests<br />
+•	[ ] 06-sending-a-post-request<br />
+•	[ ] 07-working-with-futures<br />
+•	[ ] 08-showing-a-loading-indicator<br />
+•	[ ] 09-error-handling-update<br />
+•	[ ] 10-async-await<br />
+•	[ ] 11-fetching-data-initstate-and-context<br />
+•	[ ] 12-transforming-loaded-data<br />
+•	[ ] 13-pull-to-refresh-updated<br />
+•	[ ] 14-updating-data-with-patch<br />
+•	[ ] 15-optimistic-updating<br />
+•	[ ] 16-custom-exceptions-and-more-error-handling<br />
+•	[ ] 17-a-challenge-for-you<br />
+•	[ ] 18-optimistic-updating-of-favorite-status<br />
+•	[ ] 19-storing-orders<br />
+•	[ ] 20-fetching-orders-and-fixing-an-issue<br />
+•	[ ] 21-futurebuilder-and-code-improvements-updated<br />
+•	[ ] 22-wrap-up ## 03-Debugging<br />
+•	[ ] 01-intro<br />
+•	[ ] 02-running-the-app-on-a-real-android-device<br />
+•	[ ] 03-running-on-ios-simulators<br />
+•	[ ] 04-running-the-app-on-a-real-ios-device<br />
+•	[ ] 05-working-with-the-emulators<br />
+•	[ ] 06-working-with-error-messages<br />
+•	[ ] 07-using-the-debugger<br />
+•	[ ] 08-getting-started-with-the-dart-devtools<br />
 •	[ ] 09-understanding-the-repaint-rainbow
 •	[ ] 10-wrapping-up-the-dart-devtools ## 07-Navigation
-•	[ ] 01-intro
-•	[ ] 02-planning-the-app
-•	[ ] 03-starting-with-the-app-working-on-base-data-2
-•	[ ] 04-creating-grid-items-with-a-linear-gradient
-•	[ ] 05- registering-a-screen-as-the-main-screen
-•	[ ] 06-styling-and-theming
-•	[ ] 07-navigating-to-a-new-page
-•	[ ] 08-passing - data-via-the-constructor
-•	[ ] 09-using-named-routes-and-passing-data
-•	[ ] 10-more-on-named-routes
-•	[ ] 11-adding-meals-model-and-data
-•	[ ] 12-selecting-meals-for-a-chosen-category
-•	[ ] 13-displaying-recipe-items-with-network-images
-•	[ ] 14-finishing-the-meal-list-items
-•	[ ] 15-navigating-to-the-meal-detail-page
-•	[ ] 16-ongenerateroute-and-onunknownroute
-•	[ ] 17-finishing-the-meals-detail-page
-•	[ ] 18-appbar-tabbar
-•	[ ] 19-bottom-tabbar
-•	[ ] 20-adding-a-custom-side-drawer
-•	[ ] 21-adding-links-to-the-drawer
-•	[ ] 22-replacing-pages
-•	[ ] 23-popping-and-passing-data-back
-•	[ ] 24-adding-filter-switches
-•	[ ] 25-adding-filtering-logic
-•	[ ] 26-adding-favoriting-feature
-•	[ ] 27-fixing-the-problem
-•	[ ] 28-wrap-up ## 11-Auth
-•	[ ] 01-intro
+•	[ ] 01-intro <br />
+•	[ ] 02-planning-the-app <br />
+•	[ ] 03-starting-with-the-app-working-on-base-data-2 <br />
+•	[ ] 04-creating-grid-items-with-a-linear-gradient <br />
+•	[ ] 05- registering-a-screen-as-the-main-screen<br />
+•	[ ] 06-styling-and-theming<br />
+•	[ ] 07-navigating-to-a-new-page<br />
+•	[ ] 08-passing - data-via-the-constructor<br />
+•	[ ] 09-using-named-routes-and-passing-data<br />
+•	[ ] 10-more-on-named-routes<br />
+•	[ ] 11-adding-meals-model-and-data<br />
+•	[ ] 12-selecting-meals-for-a-chosen-category<br />
+•	[ ] 13-displaying-recipe-items-with-network-images<br />
+•	[ ] 14-finishing-the-meal-list-items<br />
+•	[ ] 15-navigating-to-the-meal-detail-page<br />
+•	[ ] 16-ongenerateroute-and-onunknownroute<br />
+•	[ ] 17-finishing-the-meals-detail-page<br />
+•	[ ] 18-appbar-tabbar<br />
+•	[ ] 19-bottom-tabbar<br />
+•	[ ] 20-adding-a-custom-side-drawer<br />
+•	[ ] 21-adding-links-to-the-drawer<br />
+•	[ ] 22-replacing-pages<br />
+•	[ ] 23-popping-and-passing-data-back<br />
+•	[ ] 24-adding-filter-switches<br />
+•	[ ] 25-adding-filtering-logic<br />
+•	[ ] 26-adding-favoriting-feature<br />
+•	[ ] 27-fixing-the-problem<br />
+•	[ ] 28-wrap-up <br />## 11-Auth<br />
+•	[ ] 01-intro<br />
 •	[ ] 02-how-auth-works
 •	[ ] 03-prepare-backend
 •	[ ] 04-adding-the-authscreen
