@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../a_fundamental/fundamental_main.dart';
+import '../a_fundamental/main_fundamental.dart';
 import '../b_advance/advance_main.dart';
 
 var fundamental = const Fundamental();
